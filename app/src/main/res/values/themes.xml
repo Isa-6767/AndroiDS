@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.AndroiDS" parent="android:Theme.Material.Light.NoActionBar">
+        <item name="android:windowBackground">@color/body</item>
+        <item name="android:statusBarColor">@color/body</item>
+        <item name="android:navigationBarColor">@color/body</item>
+        <item name="android:windowLightStatusBar">true</item>
+    </style>
+
+    <style name="Theme.AndroiDS.Splash" parent="android:Theme.Material.Light.NoActionBar.Fullscreen">
+        <item name="android:windowBackground">@color/screen_bg</item>
+    </style>
+</resources>
